@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "name": "matt-agent-suite",
+  "owner": "Matt Sinisi",
+  "agents": [
+    "demo-architect",
+    "dataset-engineer",
+    "tableau-cloud-ops",
+    "local-app-builder",
+    "insurance-ops-analyst",
+    "trip-concierge",
+    "home-life-assistant"
+  ],
+  "use_cases": [
+    "Tableau demos",
+    "Agentforce conversational analytics",
+    "Insurance analytics",
+    "Local LLM app scaffolding",
+    "Travel and trip planning",
+    "Home projects and troubleshooting",
+    "YouTube and personal workflows"
+  ]
+}
