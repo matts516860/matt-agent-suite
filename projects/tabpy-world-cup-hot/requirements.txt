@@ -1,0 +1,7 @@
+tabpy
+tabpy-client
+scikit-learn
+pandas
+numpy
+pymc
+prophet
